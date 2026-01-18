@@ -38,6 +38,8 @@ First, download this repository to your computer or copy it to your local folder
 * Open the AR scene under the `Assets/Scenes` folder.
 * If the models appear pink (URP/HDRP conflict), adjust the materials to match your project by following the path `Edit -> Rendering -> Materials -> Convert Selected Materials`.
 
+---
+
 ## ⚠️ Challenges You Might Encounter
 I know, sometimes even the simplest project can take days to get up and running in Unity. I also had to try many times during this process (why do you think I bought 70+ APKs? 😅).
 
