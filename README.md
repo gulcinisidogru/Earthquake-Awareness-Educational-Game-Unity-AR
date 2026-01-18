@@ -67,7 +67,9 @@ Cabinet and desk models have been added to the repository. Due to size limitatio
 1. Fork the Project: Copy it to your account using the button in the upper right corner.
 2. Make Your Changes: Develop the copy (fork) in your account.
 3. Create a Pull Request (PR): You can submit a Pull Request if you have fixed a bug in the original project or made a technical improvement that benefits everyone.
-Note: To maintain project structure, permission to create branches directly on this repository is not granted.
+
+> **Note:** To maintain project structure, permission to create branches directly on this repository is not granted.
+
 
 ---
 
